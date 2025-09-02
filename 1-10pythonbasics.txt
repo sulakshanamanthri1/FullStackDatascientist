@@ -1,0 +1,17 @@
+1.You are developing a small calculator app. Write a program that takes two numbers from the user and swaps them without using a third variable, so users can correct their input order.
+2.A library wants to build a feature to display book titles backwards for a “mirror view” theme. Write a program that reverses a given string without using slicing.
+3. An ATM machine verifies special numbers before processing transactions. Write a program to check if a number entered by the customer is an Armstrong number.
+ 
+4. A language learning app wants to check how many vowels and consonants a user has typed in a practice sentence. Write a program to count vowels and consonants in a given sentence.
+ 5.
+In an e-learning platform, when a student inputs a number, the system should generate its multiplication table (up to 10) as practice material. Write a program to do this.
+6.
+A travel company checks leap years to calculate special discounts on leap day. Write a program to check if a given year is a leap year.
+7.
+A gaming app wants to determine the highest score out of 5 attempts. Write a program to take 5 numbers as input and print the largest.
+8.
+A healthcare app stores patient IDs and checks if they are palindromes for easy recall. Write a program that checks if a given string ID is a palindrome.
+9.
+A factory wants to calculate the number of ways workers can be arranged in a line. Write a program to find the factorial of a number.
+10.
+A company gives rewards for numbers divisible by both 3 and 5. Write a program to print all numbers between 1 and 100 that qualify.
